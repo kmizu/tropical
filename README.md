@@ -12,4 +12,4 @@ Then, the interactive console will be shown.
 
 ### Screen Shot
 
-![スクリーンショット](https://github.com/kmizu/screen_shot.png)
+![スクリーンショット](https://github.com/kmizu/tropical/blob/master/screen_shot.png)
