@@ -9,3 +9,7 @@ See: http://d.hatena.ne.jp/m-hiyama/20151202/1449016930
 * sbt\bin\sbt console (Windows)
 
 Then, the interactive console will be shown.
+
+### Screen Shot
+
+![スクリーンショット](https://github.com/kmizu/screen_shot.png)
